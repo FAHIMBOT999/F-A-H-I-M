@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "cyber-fahim",
-  "PREFIX": ".",
+  "PREFIX": "/",
   "OPERATOR": [
     "100092886789103",
     ""
