@@ -75,7 +75,7 @@ module.exports = {
           "Xann hanga korba Amr boss Fahim er sathe?",
           "Xann bal falaba🙂",
           "Amare Dakis nh Tor Abbu Fahim re Dak",
-          "Plz Take e command"
+          "Plz Take e command",
           "Yes Fahim Bot Hare"
         ];
         const name = await Users.getNameUser(events.senderID);
