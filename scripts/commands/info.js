@@ -45,7 +45,7 @@ var callback = () => api.sendMessage({body:`
 
 ✯///__ʜɪᴅᴇ__: 5'9__///✯
 
-✯///__ғʙ ɪᴅ ʟɪɴᴋ__:  https://www.facebook.com/Itsmefahim007?mibextid=ZbWKwL
+✯///__ғʙ ɪᴅ ʟɪɴᴋ__:https://www.facebook.com/Itsmefahim007?mibextid=ZbWKwL
 
 ✯///__ᴡᴘ ɴᴜᴍʙᴇʀ__: 01609115850
 
